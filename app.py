@@ -4,7 +4,7 @@ import pandas as pd
 # -----------------------
 # Load Data
 # -----------------------
-df = pd.read_csv("C:/Users/ektap/Downloads/European_Bank.csv")
+df = pd.read_csv("C:/Users/ektap/Desktop/Ekta/insternship/Customer_Churn_Project/European_Bank.csv")
 
 # -----------------------
 # Page Config
